@@ -40,7 +40,7 @@ In summary, key deliverables described towards the end of this document consist 
 
 ## Current status
 
-A proposal will been submitted to [Grant For The Web](https://www.grantfortheweb.org/) on September 22nd for the
+A proposal will have been submitted to [Grant For The Web](https://www.grantfortheweb.org/) on September 22nd for the
 July 2021 round.
 
 
